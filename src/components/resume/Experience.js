@@ -32,7 +32,7 @@ const Experience = () => {
             title="Remote Full Stack Web Developer"
             subTitle=" HIRA DENTAL LABORATORY (PVT) LTD  - (2023 - Current)"
             result="United Kingdom (Gb)"
-            des="Website development involves various key aspects to ensure a robust and efficient platform. Server-side development forms the backbone, handling data processing and user requests. Database management is essential for organizing and storing data efficiently, enabling seamless retrieval and manipulation."
+            des="Website development involves various key aspects to ensure a robust and efficient platform. Server-side development forms the backbone, handling data processing and user requests."
           />
         </div>
       </div>
