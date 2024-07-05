@@ -20,13 +20,13 @@ const Education = () => {
             title="Bachelor's in software Engineering"
             subTitle="Lahore Garrison University (2020 - 2023)"
             result="Pakistan (Pk)"
-            des="I pursued a degree in Software Engineering from Lahore Garrison University between 2020-2023. This comprehensive program equipped me with in-depth knowledge of software development, programming languages, and computer science principles. Through hands-on projects and coursework, I honed my skills in software design, development, and testing."
+            des="I pursued a degree in Software Engineering from Lahore Garrison University between 2020-2023. This comprehensive program equipped me with in-depth knowledge of software development, programming languages, and computer science principles."
           />
           <ResumeCard
             title="Secondary School Education"
             subTitle="Punjab Group Of colleges (2018 - 2020)"
             result="Pakistan (Pk)"
-            des="I completed my FSc Pre-Engineering from Punjab Group of Colleges between 2018-2020. This program provided a strong foundation in science and engineering, covering calculus, physics, chemistry, and engineering principles. It enhanced my technical skills, analytical thinking, and problem-solving abilities, preparing me for future endeavors in engineering or science-related fields."
+            des="I completed my FSc Pre-Engineering from Punjab Group of Colleges between 2018-2020. This program provided a strong foundation in science and engineering, covering calculus, physics, chemistry, and engineering principles. It enhanced my technical skills, analytical thinking, and problem-solving abilities."
           />
           <ResumeCard
             title="Primary Education"
