@@ -18,10 +18,10 @@ const ContactLeft = () => {
         I'm Hina Shahbaz, a proficient full-stack web developer with a passion for crafting seamless digital experiences through innovative coding and creative design.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+92 3190257257</span>
+          Phone: <span className="text-lightText">+92 3190257357</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">hinashehbaz209@gmail.com</span>
+          Email: <span className="text-lightText">hinashehbaz289@gmail.com</span>
         </p>
       </div>
     </div>
